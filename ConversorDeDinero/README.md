@@ -15,8 +15,12 @@ nada más se necesita mandar los códigos de las monedas base y a la que se dese
 Nos apoyamos en Gson para hacer la recolección de los datos por medio de un récord, el cual es Conversor.
 
 <h3>Generar Historial</h3>
-![Historial](https://github.com/ESTILTRT/ConversorDeDinero/assets/157448750/9a94050f-697d-41c9-a9cc-dbb293141108)
+
+![Historial](https://github.com/ESTILTRT/ConversorDeDinero/assets/157448750/d32828bb-aa36-44e3-8099-48c1d465a0f3)
+
 Gracias a los datos dados por el usuario por medio del main, se genera un pequeño historial el cual obtiene los datos por medio de un List de tipo Conversor, así colocando el monto y los dos códigos de monedas mandados.
 Este sería un ejemplo del Json.
-![Json del historial](https://github.com/ESTILTRT/ConversorDeDinero/assets/157448750/6412df2c-b486-4f58-b1b6-848c4faa4a64)
+
+![Json del historial](https://github.com/ESTILTRT/ConversorDeDinero/assets/157448750/9a645847-19e6-47d2-889c-8d7349a30b66)
+
 
