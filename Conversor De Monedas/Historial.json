@@ -1,0 +1,12 @@
+[
+  {
+    "base_code": "EUR",
+    "target_code": "CRC",
+    "conversion_result": 1.24133829E7
+  },
+  {
+    "base_code": "USD",
+    "target_code": "CRC",
+    "conversion_result": 5032.345
+  }
+]
